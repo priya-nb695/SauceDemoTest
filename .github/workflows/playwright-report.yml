@@ -31,10 +31,4 @@ jobs:
       - name: Generate Playwright report
         run: npx playwright show-report
 
-      - name: Deploy report to GitHub Pages
-        if: success()  # Only runs if tests pass
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs  # Directory with the HTML report
-          publish_branch: main  # Branch for GitHub Pages
+      
