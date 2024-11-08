@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Playwright test reports
+playwright-report/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# IDEs & editor-specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
