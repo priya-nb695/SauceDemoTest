@@ -58,3 +58,6 @@ a error message with the actual reasons will be shown.
  1.Page Object Model (POM): The project follows the Page Object Model (POM) design pattern, with separate classes for interacting with the login, products, and cart pages.
 
  2.Test Automation: The test uses Playwright for browser automation and simulates a real user interaction with the SauceDemo site.
+
+ ## View Test Results:
+   After the test cases are passed the playwright result report will server as the the result report and this can be automatically viewd in the Github live pages 
