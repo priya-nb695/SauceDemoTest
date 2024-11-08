@@ -1,9 +1,6 @@
 # Node.js dependencies
 node_modules/
 
-# Playwright test reports
-playwright-report/
-
 # Log files
 *.log
 

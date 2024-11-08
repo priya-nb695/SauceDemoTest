@@ -15,7 +15,7 @@ This project contains UI automation tests for the **SauceDemo** website using **
 
 2. Navigate to the project folder.
       
-        cd saucedemo-automation-test
+        cd SauceDemoTest
 
 3. Install dependencies by running:
  
