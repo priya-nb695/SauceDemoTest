@@ -52,3 +52,9 @@ If the the test passes :
 If the test fails:
 
 a error message with the actual reasons will be shown.
+
+## Project Setup
+
+ 1.Page Object Model (POM): The project follows the Page Object Model (POM) design pattern, with separate classes for interacting with the login, products, and cart pages.
+
+ 2.Test Automation: The test uses Playwright for browser automation and simulates a real user interaction with the SauceDemo site.
